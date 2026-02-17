@@ -1,5 +1,5 @@
 public class MethodsChallenge {
-    // why public not compulsory
+    // why public not compulsory?
     static void welcomeMessage(){
         System.out.println("Welcome to Java!");
     }
