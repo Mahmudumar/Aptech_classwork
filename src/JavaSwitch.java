@@ -13,7 +13,7 @@ public class JavaSwitch {
                     System.out.println("You ordered Tea");
                     break;
                 default:
-                    System.out.println("Invalid choice");
+                    System.out.println("Invalid chooice");
             }
         }
     }
