@@ -1,6 +1,6 @@
 public class JavaSwitch {
         public static void main(String[] args) {
-            int choice = 1;
+            int choice = 3;
 
             // 1 = Coffee
             // 2 = Tea
