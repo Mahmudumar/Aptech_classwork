@@ -5,7 +5,7 @@ class Device {
         System.out.println("Switched On: Welcome to your "+brand);
     }
     public void switchOff() {
-        System.out.println("Switched Off: Bye from "+brand);
+        System.out.println("Switched Off: Bye Bye from "+brand);
     }
 }
 
