@@ -9,7 +9,7 @@ class Device {
     }
 }
 
-// Example 1
+// Example 1: A phone is a child of Device class
 class Phone extends Device {
     private static final String modelName = "Spark 8";
     public static void main(String[] args) {
@@ -23,7 +23,7 @@ class Phone extends Device {
     }
 }
 
-
+// Example 2: Laptop class also inherits from Device class
 class Laptop extends Device {
     private static final String modelName = "E14";
     public static void main(String[] args) {
