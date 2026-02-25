@@ -9,3 +9,4 @@ public class Conditions {
         }
     }
 }
+// create a document explaining it and code examples
